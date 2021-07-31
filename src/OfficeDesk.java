@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class OfficeDesk extends Furniture{
 
