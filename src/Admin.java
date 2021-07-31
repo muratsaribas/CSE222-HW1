@@ -76,6 +76,7 @@ public class Admin extends User{
         BranchEmployee be = new BranchEmployee(br, userID);
         return getCompany().getBranches().at(index).getEmployee().remove(be);
     }
-
+    
+    public void testt(){}
 
 }
